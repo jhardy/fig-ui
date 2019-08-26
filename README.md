@@ -2,7 +2,16 @@
 
 This is a Figma plugin used for testing and as an example of how to use the [figma-styled-components](https://github.com/jhardy/figma-styled-components) library
 
+### Current Snapshot
+
+![image](https://user-images.githubusercontent.com/170681/63664207-7c7cc500-c77a-11e9-8129-50fa276abc2f.png)
+
+
 ---
+
+### Usage 
+
+Clone this repo and install this plugin locally under the development section of the the plugin page in Figma. To open it go to the plugin menu and select `fig-ui`. If you make changes to the plugin, make sure you build it first by following the directions below.
 
 ### Building This Plugin
 
