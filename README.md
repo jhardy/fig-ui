@@ -1,5 +1,7 @@
 # Fig UI
 
+⚠️ **Note:** This is still a work in progress and there are known issues and bugs ⚠️
+
 This is a Figma plugin used for testing and as an example of how to use the [figma-styled-components](https://github.com/jhardy/figma-styled-components) library
 
 ### Current Snapshot
