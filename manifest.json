@@ -1,0 +1,7 @@
+{
+  "name": "fig-ui",
+  "id": "744390226529409074",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
